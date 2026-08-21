@@ -146,18 +146,25 @@ See [docs/BUILD.md](docs/BUILD.md) for the build workflow.
 
 ## License / 许可
 
-This project is open source and may be freely used, modified, forked, maintained, and redistributed for non-commercial purposes.
+This project is released under the Aozora Outfit System Non-Commercial License.
 
-本项目开放源代码，允许任何人在非商业用途下自由使用、修改、创建分支、维护和再发布。
+本项目采用《青空服装管理系统非商业许可》发布。
 
-Non-commercial mod packs, community patches, personal builds, public forks, and derivative projects are allowed without asking for separate permission.
+Allowed without separate permission / 无需单独许可 | Requires prior permission / 需要事先许可
+--- | ---
+Personal use, modification, and private builds / 个人使用、修改和私有构建 | Commercial use or monetized distribution / 商业使用或商业化分发
+Public or private forks / 公开或私有分支 | Paid mod packs or paid bundling / 付费整合包或付费打包
+Non-commercial patches and mod packs / 非商业补丁和整合包 | Paid support or commissioned maintenance / 付费支持或有偿维护
+Redistribution of modified or compiled builds / 修改版或编译版再发布 | Selling modified or compiled versions / 销售修改版或编译版
 
-非商业整合包、社区补丁、个人构建、公开分支和衍生项目均可直接使用，无需单独申请许可。
+Please retain the original author and repository attribution, include a copy of LICENSE.md, and clearly mark substantial changes in derivative versions.
 
-Please retain the original author and repository attribution where practical, and clearly identify substantial changes in derivative versions.
+请保留原作者与仓库来源说明，附带 LICENSE.md，并在衍生版本中明确标注重要改动。
 
-在条件允许的情况下，请保留原作者与仓库来源说明，并在衍生版本中明确标注重要改动。
+The software is provided as-is, without warranty. The author is not responsible for problems caused by modified builds or third-party redistribution.
 
-Commercial use, paid bundling, paid support, or selling modified or compiled versions requires prior permission from the author.
+本项目按“现状”提供，不提供任何保证。修改版或第三方再分发造成的问题，由使用者和再发布者自行负责。
 
-商业使用、付费整合、付费支持，或销售修改版与编译版，需要事先获得作者许可。
+See [LICENSE.md](LICENSE.md) for the complete bilingual license text.
+
+完整的双语许可条款请参阅 [LICENSE.md](LICENSE.md)。
