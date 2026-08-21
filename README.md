@@ -144,8 +144,20 @@ See [docs/BUILD.md](docs/BUILD.md) for the build workflow.
 
 <img src="docs/images/mcm-general-settings.jpg" alt="Aozora Outfit System MCM general settings / 青空的服装管理系统 MCM 通用设置" width="720">
 
-## License
+## License / 许可
 
-No redistribution license has been selected for this repository yet. Please contact the author before redistributing or bundling the source or compiled files.
+This project is open source and may be freely used, modified, forked, maintained, and redistributed for non-commercial purposes.
 
-本仓库暂未选择再分发许可。未经作者许可，请勿再分发或打包源码与编译文件.
+本项目开放源代码，允许任何人在非商业用途下自由使用、修改、创建分支、维护和再发布。
+
+Non-commercial mod packs, community patches, personal builds, public forks, and derivative projects are allowed without asking for separate permission.
+
+非商业整合包、社区补丁、个人构建、公开分支和衍生项目均可直接使用，无需单独申请许可。
+
+Please retain the original author and repository attribution where practical, and clearly identify substantial changes in derivative versions.
+
+在条件允许的情况下，请保留原作者与仓库来源说明，并在衍生版本中明确标注重要改动。
+
+Commercial use, paid bundling, paid support, or selling modified or compiled versions requires prior permission from the author.
+
+商业使用、付费整合、付费支持，或销售修改版与编译版，需要事先获得作者许可。
