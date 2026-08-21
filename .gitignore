@@ -1,0 +1,18 @@
+# Build output and local dependency state
+build/
+.xmake/
+papyrus-build/
+*.obj
+*.lib
+*.pdb
+
+# Generated Fallout 4 runtime files
+*.dll
+*.pex
+*.esp
+
+# Local diagnostics and temporary QA files
+*.log
+menu-qa-*.html
+__pycache__/
+*.pyc
