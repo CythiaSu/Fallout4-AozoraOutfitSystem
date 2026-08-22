@@ -8,6 +8,10 @@
 >
 > A native Fallout 4 F4SE outfit management system for saving, previewing, material workflows, and player/NPC outfit changes.
 
+暂时不支持最新的 Fallout 4 AE 版本（1.11.240）。
+The latest Fallout 4 AE version (1.11.240) is not supported at this time.
+
+
 [OUTFIT] Outfit Slots · [PREVIEW] Outfit Studio · [MATERIAL] Material Swap · [NPC] Player/NPC · [INPUT] Keyboard/Gamepad
 
 ## 中文
